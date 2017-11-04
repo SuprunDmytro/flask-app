@@ -13,13 +13,9 @@ mock==2.0.0
 pbr==1.10.0
 
 protobuf==3.1.0
-pygobject==3.22.0
-pyparsing==2.1.8
-python-dateutil==2.4.2
 pytz==2014.10
 requests==2.12.4
 six==1.10.0
-
 ubuntuone-client-data==14.4
 unity-lens-photos==1.0
 virtualenv==15.0.3
